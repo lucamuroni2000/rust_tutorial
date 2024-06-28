@@ -1,2 +1,5 @@
 **/.idea
 *.iml
+
+chapter_*/*/target/**
+#chapter_4/*/target/**
